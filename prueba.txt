@@ -1,4 +1,8 @@
 Prueba
 Modificado desde la web
+<<<<<<< HEAD
 hello my friend
 my name is T
+=======
+pinchi salomon que pase mas maloo
+>>>>>>> 07602dbee86f93343c9f3c3047360f01f2d357aa
