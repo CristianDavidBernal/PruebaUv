@@ -1,0 +1,15 @@
+Git init = Inicializar el repositorio
+Git status = Ver estadi de los
+Git remote -v = Ver nodos remotos
+Git branch -v = Ver ramas creadas
+
+-----------------------------------------------------------
+Git checkout = Cambia de rama
+Git checkout -b 
+
+------------- Para configurar la cuenta remota ------------
+Git config --global user.name
+Git config --global. email
+
+git fetch <------ Traer punteros del repositorio
+
