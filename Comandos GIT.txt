@@ -13,3 +13,5 @@ Git config --global. email
 
 git fetch <------ Traer punteros del repositorio
 
+----------------------------------------------------------
+git push origin "nombre de la rama sin las comillas"
